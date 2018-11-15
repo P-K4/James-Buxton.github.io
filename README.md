@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## James Buxton
 
 You can use the [editor on GitHub](https://github.com/P-K4/James-Buxton.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
